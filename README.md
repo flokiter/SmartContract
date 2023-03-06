@@ -1,0 +1,2 @@
+# SmartContract
+FlokiTer Smart Contract
